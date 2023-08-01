@@ -10,9 +10,6 @@
   "owner": "raycast",
   "access": "public",
   "author": "thomaslombart",
-  "contributors": [
-    "EvanZhouDev"
-  ],
   "license": "MIT",
   "commands": [
     {
